@@ -18,3 +18,8 @@ The guidelines were:
 6. One non-alphanumeric character
 7. Must not contain the phrase password (case insensitive)
 8. Must not contain the user's first or last name, e.g., if the user's name is John Smith, then SmItH876! is not a valid password.
+
+
+### Project 3: Time series analysis of Internet Browsers
+As we know Google Chrome was born in 2008, and since then it has become the No. 1 search browser in the world. In this data analysis challenge, I explored the exact timelines when Mozilla Firefox and Internet Explorer started to decline, and whether Chrome kept on growing its market share of customers. 
+
