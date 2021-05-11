@@ -5,6 +5,7 @@ I completed several data science challenges in DataCamp, and here are the soluti
 ### Project 1: The Office
 This was a data exploration project using numpy and pandas, along with visualization with matplotlib. Since I am fan of the show, The Office, I decided to do some exploratory analysis and find trends in the show.
 
+
 ### Project 2: Analyzing Password
 NIST is an organization that sets up guidelines for having a strong password so that hackers cannot hack. This data challenge was to find out which users followed the guidelines that were set by the NIST, and what percentage of users didn't. The name of the users that didn't follow the guidelines were released. 
 
