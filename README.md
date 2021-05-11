@@ -26,4 +26,7 @@ The guidelines were:
 ### Project 4: Time series analysis of Internet Browsers
 As we know Google Chrome was born in 2008, and since then it has become the No. 1 search browser in the world. In this data analysis challenge, I explored the exact timelines when Mozilla Firefox and Internet Explorer started to decline, and whether Chrome kept on growing its market share of customers. The dataset was retrieved from Google Trends dataset.
 
+### Project 5: Finding trends in Google Play Store
+Imagine creating a new app for your business. Before pushing your app, you would always want to understand how your app will perform against the market in the Google Play store. In this challenge, I decided to analyze the different apps available in the playstore, and find the best app with highest rating, low price in each category that Google Play Store has. 
+
 
