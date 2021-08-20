@@ -1,4 +1,4 @@
-# Datacamp-projects
+# Small-projects
 
 I completed several data science challenges in DataCamp, and here are the solutions to my projects. 
 
